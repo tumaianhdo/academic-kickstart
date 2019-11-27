@@ -1,0 +1,11 @@
+# Font style metadata
+name = "My font"
+
+# Optional Google font URL
+google_fonts = "Baskervville|Calistoga|Cookie|Cormorant+Upright:600|Dancing+Script:500|Playball|Sevillana"
+
+# Font families
+heading_font = "Cookie"
+body_font = "Baskervville"
+nav_font = "Dancing Script"
+mono_font = "Dancing Script"
